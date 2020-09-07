@@ -1,6 +1,14 @@
-# Firestarter
+# Kanban
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+
+Découverte d'Angular au travers d'un tutoriel de Kanban :
+- Mise en place de la structure d'un projet Angular
+- Login Google & email/password
+- drag&drop
+- Angular et SEO
+- Angular Material
+
 
 ## Development server
 
