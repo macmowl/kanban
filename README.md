@@ -8,6 +8,7 @@ Découverte d'Angular au travers d'un tutoriel de Kanban :
 - drag&drop
 - Angular et SEO
 - Angular Material
+- Firebase
 
 
 ## Development server
